@@ -1,6 +1,6 @@
 # Child GPS Tracker Hardware
 
-The system hardware components divided into two components. The component one is ESP32 SIM800L with NEO-6M GPS Module to send Realtime location to server. And the second component is ESP32 with MPU6050 accelerometer to detect fall.
+The system hardware components divided into two components. The component one is ESP32 SIM800L with NEO-6M GPS Module to send Realtime location to server. And the second component is ESP32 with MPU6050 accelerometer to detect falls.
 
 
 
